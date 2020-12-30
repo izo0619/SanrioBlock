@@ -3,6 +3,14 @@ SanrioBlock
 ========
 SanrioBlock is a spin-off of CatBlock that displays Sanrio memes in place of ads. The code is basically the same as CatBlock with small changes in the UI and a new set of images :)) This was just a one day project, I wanted to learn more about Chrome extensions! I won't be publishing it on the Web Store since I won't be maintaining it and I don't have 5 bucks but feel free to download it and play with it as you wish <3
 
+how to use:
+1. download zip file
+2. unzip zip file
+3. go to chrome://extensions
+4. turn on developer mode
+5. click "load unpacked" and choose the slickityadblock folder
+6. happy web surfing!
+
 ![alt text](readmeimg.jpg)
 
 **CatBlock**\
