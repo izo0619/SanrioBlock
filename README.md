@@ -8,7 +8,7 @@ how to use:
 2. unzip zip file
 3. go to chrome://extensions
 4. turn on developer mode
-5. click "load unpacked" and choose the slickityadblock folder
+5. click "load unpacked" and choose the SanrioBlock folder
 6. happy web surfing!
 
 ![alt text](readmeimg.jpg)
